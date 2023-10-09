@@ -13,6 +13,11 @@ public class printApp {
 		int Substraction;
 		String creater;
 		
+		System.out.println("Printer App");
+		System.out.println("This app is made by:");
+		
+		creater = "Supun";
+		
 		
 		
 		
