@@ -31,6 +31,15 @@ public class printApp {
 		System.out.println("The value of Number1 is " + Number1 );
 		System.out.println("The value of Number2 is " + Number2 );
 		
+		multiplication = Number1 * Number2;
+		System.out.println(Number1 + " * " + Number2 + " = " + multiplication);
+		addition = Number1 + Number2;
+		System.out.println(Number1 + " + " + Number2 + " = " + addition);
+		division = num1 / num2;
+		System.out.println(Number1 + " / " + Number2 + " = " + division);
+		Substraction = Number1 - Number2;
+		System.out.println(Number1 + " - " + Number2 + " = " + Substraction);
+		
 		
 		
 		
